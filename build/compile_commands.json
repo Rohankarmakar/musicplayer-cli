@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/rohan/Dev/C/Projects/musicplayer-cli/build",
+  "command": "/usr/lib64/ccache/g++ -I/home/rohan/Dev/C/Projects/musicplayer-cli/include -g -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/musicplayer.dir/src/main.cpp.o -c /home/rohan/Dev/C/Projects/musicplayer-cli/src/main.cpp",
+  "file": "/home/rohan/Dev/C/Projects/musicplayer-cli/src/main.cpp",
+  "output": "/home/rohan/Dev/C/Projects/musicplayer-cli/build/CMakeFiles/musicplayer.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/rohan/Dev/C/Projects/musicplayer-cli/build",
+  "command": "/usr/lib64/ccache/g++ -I/home/rohan/Dev/C/Projects/musicplayer-cli/include -g -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/musicplayer.dir/src/music_library.cpp.o -c /home/rohan/Dev/C/Projects/musicplayer-cli/src/music_library.cpp",
+  "file": "/home/rohan/Dev/C/Projects/musicplayer-cli/src/music_library.cpp",
+  "output": "/home/rohan/Dev/C/Projects/musicplayer-cli/build/CMakeFiles/musicplayer.dir/src/music_library.cpp.o"
+},
+{
+  "directory": "/home/rohan/Dev/C/Projects/musicplayer-cli/build",
+  "command": "/usr/lib64/ccache/g++ -I/home/rohan/Dev/C/Projects/musicplayer-cli/include -g -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/musicplayer.dir/src/player.cpp.o -c /home/rohan/Dev/C/Projects/musicplayer-cli/src/player.cpp",
+  "file": "/home/rohan/Dev/C/Projects/musicplayer-cli/src/player.cpp",
+  "output": "/home/rohan/Dev/C/Projects/musicplayer-cli/build/CMakeFiles/musicplayer.dir/src/player.cpp.o"
+},
+{
+  "directory": "/home/rohan/Dev/C/Projects/musicplayer-cli/build",
+  "command": "/usr/lib64/ccache/g++ -I/home/rohan/Dev/C/Projects/musicplayer-cli/include -g -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/musicplayer.dir/src/terminal.cpp.o -c /home/rohan/Dev/C/Projects/musicplayer-cli/src/terminal.cpp",
+  "file": "/home/rohan/Dev/C/Projects/musicplayer-cli/src/terminal.cpp",
+  "output": "/home/rohan/Dev/C/Projects/musicplayer-cli/build/CMakeFiles/musicplayer.dir/src/terminal.cpp.o"
+}
+]
