@@ -1,4 +1,4 @@
-# ripple
+# Terminal Music Player 
 
 A small C++17 terminal music browser for Fedora. It searches `~/Music`, lets you choose a track, plays it, and draws an animated ANSI-colour sine wave while it runs.
 
