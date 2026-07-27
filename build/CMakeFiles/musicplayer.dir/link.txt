@@ -1,1 +1,0 @@
-/usr/lib64/ccache/c++ -Wl,--dependency-file=CMakeFiles/musicplayer.dir/link.d CMakeFiles/musicplayer.dir/src/main.cpp.o CMakeFiles/musicplayer.dir/src/music_library.cpp.o CMakeFiles/musicplayer.dir/src/player.cpp.o CMakeFiles/musicplayer.dir/src/terminal.cpp.o -o musicplayer
